@@ -1,0 +1,26 @@
+
+h1{
+  text-align: center;
+  color:#99004d;
+}
+h2{
+  text-align: center;
+  color:#ffcc00;
+}
+.img-holder{
+  float:left;
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+.img-holder img{
+  width: 100%;
+  height:auto;
+}
+div.description{
+  padding: 15px;
+  text-align: center;
+  color:#ffffff;
+  font-size: 20px;
+  background-color: #99004d;
+}
