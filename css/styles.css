@@ -3,15 +3,25 @@ h1{
   text-align: center;
   color:#99004d;
 }
-h2{
+.header-name{
   text-align: center;
   color:#ffcc00;
+}
+h2{
+  color:#993366;
+}
+p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+}
+.img-holders{
+  float: center;
 }
 .img-holder{
   float:left;
   margin: 5px;
   border: 1px solid #ccc;
-  width: 300px;
+  width: 500px;
 }
 .img-holder img{
   width: 100%;
@@ -23,4 +33,13 @@ div.description{
   color:#ffffff;
   font-size: 20px;
   background-color: #99004d;
+}
+.clear-left{
+  clear: left;
+  margin: 5px;
+  padding: 15px;
+}
+.welcome-text{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
 }
