@@ -1,6 +1,6 @@
-# {A Portfolio}
-#### {This portfolio showcases my work}, {Version 022019}
-#### By **{Maina Caroline}**
+# A Portfolio
+#### This portfolio showcases my work, {Version 022019}
+#### By: Maina Caroline
 ## Description
 This product showcases soem of my works, the purpose being to inspire clients who would have some ideas of what they would like 
 though have difficulties describing the design or functionality.
